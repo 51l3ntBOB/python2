@@ -1,0 +1,15 @@
+print ("Hello world from Cloud9!")
+print ("")
+print ("my First program!!!")
+print ("\t\t\tanother line")
+print"\n"
+print"\nanother line"
+quote = "A quick brown fox"
+
+print(quote)
+print(quote.upper())
+print(quote.title())
+print(quote.replace("brown","green").upper())
+
+
+#input("\nPress a key")
